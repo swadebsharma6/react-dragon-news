@@ -12,8 +12,8 @@ const Home = () => {
          <Navbar></Navbar>
          <div className=" grid grid-cols-1 md:grid-cols-4 gap-6">
           <div className="border"><LeftSideNav></LeftSideNav></div>
-          <div className="border md:col-span-2">News are coming here</div>
-          <div className="border"><RightSideNav></RightSideNav></div>
+          <div className="border md:col-span-2">News are are coming here</div>
+          <div className=""><RightSideNav></RightSideNav></div>
          </div>
       </div>
   )
